@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Game bad me angy fix.
 Use the left arrow to go back!
